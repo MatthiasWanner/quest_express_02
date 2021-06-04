@@ -22,6 +22,14 @@ const movies = [
       year: "1994",
       color: true,
       duration: 180
+    },
+    {
+      id: 3,
+      title: "Reservoir Dogs",
+      director: "Quentin Tarantino",
+      year: "1992",
+      color: true,
+      duration: 99
     }
   ];
   
